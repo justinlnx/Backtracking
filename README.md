@@ -26,7 +26,6 @@ I coded my program on Windows Visual Studio 2013 X64. Any environment that is hi
 
 # Sample Input File
 (10 4
-
 (1 2 3 4 6 7 10)
 (2 1 3 4 5 6)
 (3 1 2)
