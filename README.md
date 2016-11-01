@@ -1,7 +1,7 @@
 # Backtracking
-Backtracking algorithm to color maps
+SFU CMPT 310 Introduction to Artificial Intelligence Assignment Two: Backtracking Algorithm
 
-CMPT 310 Assignment Two: Backtracking Algorithm
+Backtracking algorithm to color maps
 
 Input file name: input.txt
 
