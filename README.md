@@ -8,12 +8,12 @@ Input file name: input.txt
 Output file name: output.txt
 
 Modify the input data in the input file and then run the executable.
-Specific format is required for the input data.
+The specific format is required for the input data.
 ie, the data must be in the format given as the test data. 
 Any other format of the input file may lead to failure to the program.
 
 Expected output:
-If the input make senses, you should be looking at a output file with all vertices colored.
+You should be looking at an output file with all vertices colored.
 Each vertex is printed on one line with color next to it.
 
 Failure output:
