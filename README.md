@@ -10,10 +10,10 @@ Output file name: output.txt
 Modify the input data in the input file and then run the executable.
 The specific format is required for the input data.
 ie, the data must be in the format given as the test data. 
-Any other format of the input file may lead to failure to the program.
+Any other format of the input file lead to failure to the program.
 
 Expected output:
-You should be looking at an output file with all vertices colored.
+You look at an output file with all vertices colored.
 Each vertex is printed on one line with color next to it.
 
 Failure output:
@@ -25,7 +25,7 @@ Running Environment:
 I coded my program on Windows Visual Studio 2013 X64. Any environment that is higher than this should work.
 
 # Sample Input File
-(10 4
+(10 4)
 (1 2 3 4 6 7 10)
 (2 1 3 4 5 6)
 (3 1 2)
@@ -36,4 +36,3 @@ I coded my program on Windows Visual Studio 2013 X64. Any environment that is hi
 (8 6 7 9)
 (9 7 8 10)
 (10 1 7 9)
-)
