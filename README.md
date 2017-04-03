@@ -18,7 +18,7 @@ Each vertex is printed on one line with color next to it.
 
 Failure output:
 If the given color is to less to color entire map
-ie, using the same test data given but change the colors to 3
+ie, using the same test data given however change the colors to 3
 It will fail, and all the vertices will print except they are all NotColored.
 
 Running Environment:
