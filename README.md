@@ -1,15 +1,15 @@
 # Backtracking
 SFU CMPT 310 Introduction to Artificial Intelligence Assignment Two: Backtracking Algorithm
 
-Backtracking algorithm to color maps
+Backtracking algorithm of map colouring 
 
-Input file name: input.txt
+- Input file name: input.txt
 
-Output file name: output.txt
+- Output file name: output.txt
 
-Modify the input data in the input file and then run the executable.
+Modify the input data in the input file and then run the executable file.
 The specific format is required for the input data.
-ie, the data must be in the format given as the test data. 
+i.e, the data must be in the format given as the test data. 
 Any other format of the input file may lead to failure to the program.
 
 Expected output:
@@ -18,11 +18,11 @@ Each vertex is printed on one line with color next to it.
 
 Failure output:
 If the given color is to less to color entire map
-ie, using the same test data given but change the colors to 3
+i.e, using the same test data given but change the colors to 3.
 It will fail, and all the vertices will print except they are all NotColored.
 
 Running Environment:
-I coded my program on Windows Visual Studio 2013 X64. Any environment that is higher than this should work.
+This program is working on Windows Visual Studio 2013 X64. Any environment that is higher than this should work.
 
 # Sample Input File
 (10 4
