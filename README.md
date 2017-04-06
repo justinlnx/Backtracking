@@ -9,7 +9,7 @@ Backtracking algorithm of map colouring
 
 Modify the input data in the input file and then run the executable file.
 The specific format is required for the input data.
-i.e, the data must be in the format given as the test data. 
+i.e, the data must be in the format of the given test data. 
 Any other format of the input file may lead to failure to the program.
 
 Expected output:
@@ -17,9 +17,8 @@ You should be looking at an output file with all vertices colored.
 Each vertex is printed on one line with color next to it.
 
 Failure output:
-If the given color is to less to color entire map
-i.e, using the same test data given but change the colors to 3.
-It will fail, and all the vertices will print except they are all NotColored.
+If the given color decrease, it may fail to color the entire map.
+For example, using the same test data given but change the colors to 3. The program will fail to color the entire map, the output of all the vertices will print except they are all NotColored.
 
 Running Environment:
 This program is working on Windows Visual Studio 2013 X64. Any environment that is higher than this should work.
